@@ -1,0 +1,6 @@
+c:\users\приписноваю\documents\visual studio 2015\Projects\ToDo Area\ToDo Area\bin\Debug\ToDo Area.exe.config
+C:\Users\ПриписновАЮ\documents\visual studio 2015\Projects\ToDo Area\ToDo Area\bin\Debug\ToDo Area.exe
+C:\Users\ПриписновАЮ\documents\visual studio 2015\Projects\ToDo Area\ToDo Area\bin\Debug\ToDo Area.pdb
+C:\Users\ПриписновАЮ\documents\visual studio 2015\Projects\ToDo Area\ToDo Area\obj\Debug\ToDo Area.exe
+C:\Users\ПриписновАЮ\documents\visual studio 2015\Projects\ToDo Area\ToDo Area\obj\Debug\ToDo Area.pdb
+C:\Users\ПриписновАЮ\documents\visual studio 2015\Projects\ToDo Area\ToDo Area\obj\Debug\ToDo Area.csprojResolveAssemblyReference.cache
